@@ -1,0 +1,2 @@
+# kai
+Attendance Management app
