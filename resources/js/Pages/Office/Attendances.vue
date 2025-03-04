@@ -53,6 +53,7 @@
                         <q-item-label caption>{{formatDateTime(item?.signin_at)}}</q-item-label>
                     </div>
                 </div>
+                
                 <div class="text-center">
                     <q-chip text-color="white" square color="secondary" :label="item?.device?.name"/>
                 </div>
